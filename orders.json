@@ -1,0 +1,47 @@
+{
+  "SB029133": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Erik Lerby, Lessingstraße 11, 18209 Bad Doberan, Germany",
+    "receiver": Patrick Steurbaut, Tiletumstraat 52, 8755 Wingene, Belgium",
+    "price": "35.000 €",
+    "description": "Manufacturer: BMW <br>Model: Z1 Roadster <br>Chassis number: WBABA910X0AL01181<br>First registration: 10/1989 <br> Mileage: 82.171 km <br> Power: 125 kW (170 PS)<br> Engine capacity: 2.494 cm³<br> <br> The car is fully functional, no falls or accidents.<br> Very well maintained. Fully serviced. <br> German Registration. All papers, service book, and keys are included.",
+    "address": "Patrick Steurbaut <br> Tiletumstraat 52 <br> 8755 Wingene <br> Belgium <br> Telefon: +32 477785358",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "15-07-2026",
+    "deliveryDate": "14-08-2026",
+    "pickup": {
+      "street": "Lessingstraße 11",
+      "postal_code": "18209",
+      "city": "Bad Doberan",
+      "country": "Germany",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Tiletumstraat 52",
+      "postal_code": "8755",
+      "city": "Wingene",
+      "country": "Belgium",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
